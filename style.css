@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+}
+
+:root {
+  font-family: 'Open Sans';
+}
+
+.headline {
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold;
+  color: #e1624f;
+  text-transform: uppercase;
+}
+
+.top-div {
+  padding-top: 60px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+div {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+}
+
+#introduction {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+h2 {
+  padding-bottom: 40px;
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+p, ul{
+  font-size: 16px;
+}
+
+li {
+  color: blue;
+  font-size: 16px;
+}
+
+#casais {
+  color: #591B98;
+  font-size: 16px;
+}
+
+#familias {
+  color: #E5245E;
+  font-size: 16px;
+}
+
+#orcamentos {
+  color: #E95E10;
+  font-size: 16px;
+}
+
+img {
+  border-radius: 28px;
+  width: 100%;
+}
+
+.title {
+  font-size: 16px;
+  color: #E1624F;
+}
+
+.title-padding {
+  font-size: 16px;
+  color: #E1624F;
+  padding-top: 64px;
+}
+
+#subtitle {
+  padding-top: 24px;
+  text-align: center;
+}
+
+#footer-text {
+  border-bottom-style: groove;
+}
+
+footer {
+  text-align: center;
+}
