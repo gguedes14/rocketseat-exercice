@@ -91,10 +91,7 @@ img {
   text-align: center;
 }
 
-#footer-text {
-  border-bottom-style: groove;
-}
-
 footer {
   text-align: center;
+  border-bottom-style: groove;
 }
